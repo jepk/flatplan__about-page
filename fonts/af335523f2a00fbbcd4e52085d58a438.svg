@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 34 34 34 34 0 0 0"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="project-" transform="translate(-460.000000, -921.000000)">
+            <g id="Page-1" transform="translate(460.000000, 921.000000)">
+                <g id="Group-3" fill="#A87F53">
+                    <path d="M29.0208133,4.97918667 C35.65988,11.6182533 35.65988,22.38152 29.0208133,29.0205867 C22.3817467,35.6596533 11.61848,35.6596533 4.97941333,29.0205867 C-1.65965333,22.38152 -1.65965333,11.6182533 4.97941333,4.97918667 C11.61848,-1.65988 22.3817467,-1.65988 29.0208133,4.97918667" id="Fill-1"></path>
+                </g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <g id="Group" mask="url(#mask-2)" stroke="#FFFFFF" stroke-linejoin="bevel">
+                    <g transform="translate(11.000000, 6.000000)">
+                        <polygon id="Stroke-4" points="0.285733333 21.0311333 11.7154 21.0311333 11.7154 9.59353333 0.285733333 9.59353333"></polygon>
+                        <path d="M6,16.2840533 L6,0.929653333" id="Stroke-6"></path>
+                        <polyline id="Stroke-7" points="1.1822 5.12604667 6.04533333 0.262913333 10.9096 5.12604667"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

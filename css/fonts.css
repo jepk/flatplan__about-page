@@ -1,0 +1,9 @@
+/* font-family: "FormularRegular"; */
+
+@font-face {
+  font-family: "FormularRegular";
+  src: url("../fonts/formular-flatplan-regular.eot");
+  src: url("../fonts/formular-flatplan-regular.eot#iefix")format("embedded-opentype"), url("../fonts/formular-flatplan-regular.woff") format("woff"), url("../fonts/FormularRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-page-1440px-2nd-visit" transform="translate(-1179.000000, -11.000000)">
+            <g id="Group-18" transform="translate(227.000000, 5.000000)">
+                <g id="Group-17">
+                    <g id="Page-1" transform="translate(952.000000, 6.000000)">
+                        <g id="Group-3" fill="#A87F53">
+                            <path d="M29.0208133,4.97918667 C35.65988,11.6182533 35.65988,22.38152 29.0208133,29.0205867 C22.3817467,35.6596533 11.61848,35.6596533 4.97941333,29.0205867 C-1.65965333,22.38152 -1.65965333,11.6182533 4.97941333,4.97918667 C11.61848,-1.65988 22.3817467,-1.65988 29.0208133,4.97918667" id="Fill-1"></path>
+                        </g>
+                        <path d="M15.8517067,16.8746533 L4.12850667,16.8746533" id="Stroke-4" stroke="#FFFFFF" stroke-linejoin="bevel"></path>
+                        <polyline id="Stroke-6" stroke="#FFFFFF" stroke-linejoin="bevel" points="9.98330667 10.9427867 4.05257333 16.87352 9.98330667 22.8053867"></polyline>
+                        <polyline id="Stroke-8" stroke="#FFFFFF" stroke-linejoin="bevel" points="15.8517067 7.50584 25.6981067 7.50584 25.6981067 26.7271733 15.8517067 26.7271733"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

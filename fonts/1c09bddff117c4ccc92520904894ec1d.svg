@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ID-my-flatplans" transform="translate(-545.000000, -10.000000)">
+            <g id="Group-6-Copy-4" transform="translate(227.000000, 3.000000)">
+                <g id="Group-4">
+                    <g id="Page-1" transform="translate(318.000000, 7.000000)">
+                        <g id="Group-3" fill="#F7C1C1">
+                            <path d="M29.0208133,4.97918667 C35.65988,11.6182533 35.65988,22.38152 29.0208133,29.0205867 C22.3817467,35.6596533 11.61848,35.6596533 4.97941333,29.0205867 C-1.65965333,22.38152 -1.65965333,11.6182533 4.97941333,4.97918667 C11.61848,-1.65988 22.3817467,-1.65988 29.0208133,4.97918667" id="Fill-1"></path>
+                        </g>
+                        <path d="M25.14028,14.7183733 C25.14028,12.24204 23.1331467,10.2349067 20.6568133,10.2349067 C19.14608,10.2349067 17.8121467,10.98404 16.9995467,12.12984 C16.18808,10.98404 14.8541467,10.2349067 13.3434133,10.2349067 C10.86708,10.2349067 8.85994667,12.24204 8.85994667,14.7183733 C8.85994667,15.88344 9.30761333,16.94084 10.0352133,17.7375733 L16.9995467,25.1575067 L23.9695467,17.73984 C24.6926133,16.94084 25.14028,15.88344 25.14028,14.7183733 Z" id="Stroke-4" stroke="#FFFFFF" stroke-linejoin="bevel"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

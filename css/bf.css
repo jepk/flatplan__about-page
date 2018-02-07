@@ -1,0 +1,139 @@
+@font-face {
+  font-family: 'formularbold';
+  src: url('../fonts/formular-bold-webfont.woff2') format('woff2'),
+       url('../fonts/formular-bold-webfont.woff') format('woff'),
+       url('../fonts/formular-bold.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+  .red-popup {
+    position: relative;
+    background: #ea3f33;
+    padding: 35px 43px;
+    width: auto;
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+
+  }
+
+  @media screen and (max-width: 530px) {
+    .red-popup {
+      width: 100%;
+      padding: 20px;
+    }
+  }
+
+  .strikethrough {
+    position: relative;
+  }
+
+  .white-text {
+    color: #fff;
+  }
+
+  .strikethrough:before {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 50%;
+    right: 0;
+    border-top: 2px solid #fff;
+
+    -webkit-transform:rotate(14deg);
+    -moz-transform:rotate(14deg);
+    -ms-transform:rotate(14deg);
+    -o-transform:rotate(14deg);
+    transform:rotate(14deg);
+  }
+
+  .red-popup__text-container {
+    font-size: 120px;
+    line-height: 122px;
+    font-family: 'formularbold', sans-serif;
+  }
+
+  @media screen and (max-width: 1000px) {
+    .red-popup__text-container {
+      font-size: 82px;
+      line-height: 84px;
+    }
+  }
+
+  @media screen and (max-width: 530px) {
+    .red-popup__text-container {
+      font-size: 42px;
+      line-height: 44px;
+    }
+  }
+
+  .white-button {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    width: 100%;
+    font-size: 0;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+  .white-button .btn{
+      border-color: #fff;
+      color: #fff;
+  }
+
+
+  .red-popup  .mfp-close {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    font-size: 0!important;
+    top: 49px;
+    right: 41px;
+  }
+
+  @media screen and (max-width: 530px) {
+    .red-popup .mfp-close {
+      top: 20px;
+      right: 13px;
+    }
+  }
+
+  .red-popup  .mfp-close:hover::before,
+  .red-popup  .mfp-close:hover::after {
+    background: #fff;
+  }
+
+  .red-popup  .mfp-close:active {
+    top: 41px;
+  }
+
+  @media screen and (max-width: 530px) {
+    .red-popup  .mfp-close:active {
+      top: 20px;
+    }
+  }
+  .red-popup  .mfp-close::before, .red-popup  .mfp-close::after {
+    content: '';
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    margin-top: -1px;
+    background: #000;
+  }
+  .red-popup  .mfp-close::before {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .red-popup  .mfp-close::after {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
